@@ -20,4 +20,7 @@ Aplicación en Java que permite crear productos, agregarlos a un carrito y calcu
 App.java
 
 ## 👩‍💻 Autor
-Ivonne Dayana Contreras Sánchez
+- Ivonne Dayana Contreras Sánchez
+- Aprendiz SENA 
+– Desarrollo de Software 
+- Ficha: 3311983
